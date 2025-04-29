@@ -1,0 +1,5 @@
+Turkey stands on the center of multiple fault lines, with huge earthquake expected in Istanbul soon, threatining tens of millions of lives. I worked on different solutions before to help minimize the impact of the upcoming earthquakes and have a pending patent in the field.
+
+After a 6.2 magnitude earthquake happened in Turkey on 23 April 2025, I decided to build an automated prediction workflow that scrapes thousands of past earthquakes from the website of Kandilli Rasathanesi (Earthquake Research Institute), saves them into a database, uses a regressive time series model to predict potential upcoming earthquakes, generates a post based on the earthquake prediction, and finally, decides to tweet it or not considering factors like location, magnitude and depth of the predicted earthquake.
+
+As millions of people are on their toes, we aim to keep people notified in advance. Every minute matters.
